@@ -1,12 +1,13 @@
 # Visually disruptive Pomodoros right in your tmux panes
 
-***
 Had a hard time keeping track of my time (and stopping for breaks!) in my normal TMUX workflow, so I hacked
 together a series of commands and scripts to make it very obvious when my time was up.
 ***
 
+### Run Pomodoros in a small window or tmux pane to keep track of time
 ![alt text](https://github.com/TroyFletcher/terminal-pomodoro/raw/master/terminal-pomodoro.gif "Terminal Pomodoro")
 
+### Run breaks full screen to keep you from working
 ![alt text](https://github.com/TroyFletcher/terminal-pomodoro/raw/master/terminal-break-5.gif "Terminal Break")
 
 ## Quickstart
@@ -16,7 +17,7 @@ together a series of commands and scripts to make it very obvious when my time w
 
 ## Features
 1. Easy to read clock
-2. Distracting "alarm" when time runs out
+2. Randomly colored distracting "alarm" when time runs out
 3. Runs entirely in a terminal window
 4. Exits very gracefully with Ctrl+C
 5. Easy to update! (Just change the script yourself!)
