@@ -31,4 +31,4 @@ together a series of commands and scripts to make it very obvious when my time w
 - [Figlet Collossal font](http://www.figlet.org/fontdb_example.cgi?font=colossal.flf) or your choice of alternative
 
 ### Credits
-- Countdown shell script adapted from terdon [via superuser](https://superuser.com/a/611582)
+- Countdown shell script adapted from user Terdon [via superuser](https://superuser.com/a/611582)
