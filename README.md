@@ -7,7 +7,7 @@ together a series of commands and scripts to make it very obvious when my time w
 ### Run Pomodoros in a small window or tmux pane to keep track of time
 ![alt text](https://github.com/TroyFletcher/terminal-pomodoro/raw/master/terminal-pomodoro.gif "Terminal Pomodoro")
 
-### Run breaks full screen to keep you from working
+### Take 5 minute breaks full screen to keep you from working
 ![alt text](https://github.com/TroyFletcher/terminal-pomodoro/raw/master/terminal-break-5.gif "Terminal Break")
 
 ## Quickstart
@@ -22,8 +22,9 @@ together a series of commands and scripts to make it very obvious when my time w
 4. Exits very gracefully with Ctrl+C
 5. Easy to update! (Just change the script yourself!)
 6. Simplified! (Doesn't track anything or judge you!)
-7. Organic, free range, fair trade, gluten free, carbon-centric 1s and 0s
-8. Filthy Frank
+7. Supports 30 minute breaks (if you change the 300 to a 1800!)
+8. Organic, free range, fair trade, gluten free, carbon-centric 1s and 0s
+9. 99.999% Filthy Frank
 
 ### Requirements
 - [Figlet](http://www.figlet.org): Makes large ASCII art text in a variety of fonts
