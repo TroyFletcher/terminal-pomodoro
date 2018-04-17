@@ -1,4 +1,4 @@
-# Visually disruptive Pomodoros right your tmux panes
+# Visually disruptive Pomodoros right in your tmux panes
 
 ***
 Had a hard time keeping track of my time (and stopping for breaks!) in my normal TMUX workflow, so I hacked
