@@ -12,8 +12,8 @@ together a series of commands and scripts to make it very obvious when my time w
 
 ## Quickstart
 1. Clone repository
-2. Install figlet, and lolcat packages
-3. Fits in a small corner window in your workspace.
+2. Install [Figlet](http://www.figlet.org), and [lolcat](https://github.com/busyloop/lolcat) packages
+3. Run `./pomodoro.sh`, then `./break_5_min.sh`
 
 ## Features
 1. Easy to read clock
@@ -29,3 +29,6 @@ together a series of commands and scripts to make it very obvious when my time w
 - [Figlet](http://www.figlet.org): Makes large ASCII art text in a variety of fonts
 - [lolcat](https://github.com/busyloop/lolcat): Adds random rainbow coloring (grabs attention with visual incongruity)
 - [Figlet Collossal font](http://www.figlet.org/fontdb_example.cgi?font=colossal.flf) or your choice of alternative
+
+### Credits
+- Countdown shell script adapted from terdon [via superuser](https://superuser.com/a/611582)
