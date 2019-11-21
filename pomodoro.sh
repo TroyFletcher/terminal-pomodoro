@@ -1,2 +1,2 @@
 #!/bin/bash
-bash countdown.sh 1500|figlet; bash stop_collossal.sh
+bash countdown.sh 25|figlet; bash stop_collossal.sh
