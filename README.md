@@ -21,12 +21,12 @@ together a series of commands and scripts to make it very obvious when my time w
 2. Randomly colored distracting "alarm" when time runs out
 3. Runs entirely in a terminal window
 4. Exits very gracefully with Ctrl+C
-4.1 NOW SUPPORTS PAUSING using Ctrl+Z (unpause with `fg`) (Author's note: "This was difficult!")
-5. Easy to update! (Just change the script yourself!)
-6. Simplified! (Doesn't track anything or judge you!)
-7. Supports 30 minute breaks (if you change the 300 to a 1800!)
-8. Organic, free range, fair trade, gluten free, carbon-centric 1s and 0s
-9. 99.999% Filthy Frank
+5. NOW SUPPORTS PAUSING use Ctrl+Z (unpause with `fg`) *(Author's note: "This was difficult!")*
+6. Easy to update! (Just change the script yourself!)
+7. Simplified! (Doesn't track anything or judge you!)
+8. Supports 30 minute breaks (if you change the 300 to a 1800!)
+9. Organic, free range, fair trade, gluten free, carbon-centric 1s and 0s
+10. 99.999% Filthy Frank
 
 ### Requirements
 - [Figlet](http://www.figlet.org): Makes large ASCII art text in a variety of fonts
